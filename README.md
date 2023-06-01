@@ -1,6 +1,6 @@
 ### Hello, my name is Júlia Duarte:)
 
-- 🌱 I’m currently learning python and ADS
+- 🌱 I’m currently learning ADS and python
 - 🤔 I'm looking for help to become a Dev
 - 📫 How to reach me: juliaduarteassu@outlook.com
 - 😄 Pronouns: she/her 
