@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, my name is Júlia Duarte:)
 
-<!--
-**T0nte/T0nte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning python and ADS
+- 🤔 I'm looking for help to become a Dev
+- 📫 How to reach me: juliaduarteassu@outlook.com
+- 😄 Pronouns: she/her 
+- 🗺️ Brazilian 
 
-Here are some ideas to get you started:
+##
+![T0nte's GitHub stats](https://github-readme-stats.vercel.app/api?username=T0nte&show_icons=true&theme=cobalt) ![kitten-cat](https://github.com/T0nte/T0nte/assets/134979746/8bc275fd-f313-4ec0-aa86-ee2e55857c80)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+
+  
